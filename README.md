@@ -6,10 +6,10 @@ This repository contains my journey through AI & Machine Learning, structured in
 
 📂 Contents
 
-level0.ipynb: Introduction to basic data operations, NumPy, and Pandas.
+---> level0.ipynb: Introduction to basic data operations, NumPy, and Pandas.
 
-level1.ipynb: Exploratory Data Analysis (EDA) and visualization using Matplotlib & Seaborn.
+---> level1.ipynb: Exploratory Data Analysis (EDA) and visualization using Matplotlib & Seaborn.
 
-level2.ipynb: Implementation of basic ML models such as linear regression, logistic regression, and decision trees.
+---> level2.ipynb: Implementation of basic ML models such as linear regression, logistic regression, and decision trees.
 
-level3.ipynb: Deep learning implementation using TensorFlow & Keras, including neural network training for image classification.
+---> level3.ipynb: Deep learning implementation using TensorFlow & Keras, including neural network training for image classification.
