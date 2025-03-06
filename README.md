@@ -10,6 +10,6 @@ This repository contains my journey through AI & Machine Learning, structured in
 
 ---> level1.ipynb: Exploratory Data Analysis (EDA) and visualization using Matplotlib & Seaborn.
 
----> level2.ipynb: Implementation of basic ML models such as linear regression, logistic regression, and decision trees.
+---> level2.ipynb: Implementation of basic ML models such as logistic regression.
 
 ---> level3.ipynb: Deep learning implementation using TensorFlow & Keras, including neural network training for image classification.
